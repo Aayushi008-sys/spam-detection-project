@@ -42,3 +42,12 @@ Run the web app:
 ```bash
 python -m streamlit run app.py
 ```
+## 📸 Screenshots
+
+### Not Spam Prediction
+
+![Not Spam](images/Not%20Spam.png)
+
+### Spam Prediction
+
+![Spam](images/Spam.png)
